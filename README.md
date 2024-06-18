@@ -1,6 +1,8 @@
 # Rope
  Unity 2D
  
+ HINGE CONNECTION SYSTEM WAS USED 
+ 
 Developed with Unity. Valid for all mobile devices.
 
 What did I do in this project?
